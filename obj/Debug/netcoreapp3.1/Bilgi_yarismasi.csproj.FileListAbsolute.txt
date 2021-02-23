@@ -1,0 +1,16 @@
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\bin\Debug\netcoreapp3.1\Bilgi_yarismasi.exe
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\bin\Debug\netcoreapp3.1\Bilgi_yarismasi.deps.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\bin\Debug\netcoreapp3.1\Bilgi_yarismasi.runtimeconfig.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\bin\Debug\netcoreapp3.1\Bilgi_yarismasi.runtimeconfig.dev.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\bin\Debug\netcoreapp3.1\Bilgi_yarismasi.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\bin\Debug\netcoreapp3.1\Bilgi_yarismasi.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.csprojAssemblyReference.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.Form1.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.Properties.Resources.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.csproj.GenerateResource.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.AssemblyInfoInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.AssemblyInfo.cs
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Bilgi_yarismasi\Bilgi_yarismasi\obj\Debug\netcoreapp3.1\Bilgi_yarismasi.genruntimeconfig.cache
